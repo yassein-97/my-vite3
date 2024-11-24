@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <h1>hello from Home</h1>
-      <img src='./assets/images/img-5.jpg' alt="" />
+      <img src='../assets/images/img-5.jpg' alt="" />
     </>
   );
 }
