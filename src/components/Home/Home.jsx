@@ -1,8 +1,8 @@
 import React from "react";
 import Navbar from "../Navbar/Navbar";
-import test from '../../assets/images/logo.png'
+import test from '../../assets/images/logo'
 import demo from '../../assets/images/reac'
-import done from '../../assets/images/img-5.jpg'
+import done from '../../assets/images/img-5'
 
 
 
